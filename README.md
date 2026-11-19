@@ -1,3 +1,7 @@
+[![news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/competitions/news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/skipperchen0224/makefun-news-image-20261118/rank.svg)](https://make.fun/competitions/news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/skipperchen0224/makefun-news-image-20261118/reward.svg)](https://make.fun/competitions/news-image-20261118)
+
 # makefun-news-image-20261118
 
 Sum up 18 November's world news in one image — entry for the
